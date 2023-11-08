@@ -1,1 +1,7 @@
 I added some text
+
+
+Checking if works as intended.
+
+
+I dont need ssh
